@@ -1,0 +1,46 @@
+ATHLON:200GE,220GE,240GE
+2mag/4szal
+3.2GHz
+35W TDP
+HTPC-Home Theatre PC(hazimozi PC)re ajánlott.
+
+
+R3:2200G
+4mag/4szal
+2200G: 14nm-3.5/3.7GHz
+65W TDP
+8 iGPU CU
+(compute unit)
+Unlocked= fejleszthetõ
+Olyan embereknek ajánlott akik gyorsabb válasz idõt várnak.
+
+
+R5:2400G,2600,2600X
+2400G:
+4mag/8szal
+11 iGPU CU
+14nm
+3.6/3.9GHz
+65W TDP
+2600:
+6 mag/12 szal
+12nm
+3.4/3.9GHz
+65W TDP
+nincs iGPU
+Sweet Spot
+Videószerkeztés,játékok jól futtnak
+2600X:
+6 mag/ 12 szal
+12nm
+3.6/4.2GHz
+95W TDP
+nincs iGPU
+
+
+R7:2700/2700X
+8 mag/16 szal
+12nm
+3.2/4.1-3.7/4.3GHz
+65W/105W TDP
+RGB LED-es gyári hütõ
